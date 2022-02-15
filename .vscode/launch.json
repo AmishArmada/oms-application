@@ -29,6 +29,16 @@
             "mainClass": "com.oms.account.AccountServiceApplication",
             "projectName": "account-service",
             "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DiscoveryServerApplication<discovery-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.oms.DiscoveryServerApplication",
+            "projectName": "discovery-server",
+            "args": ""
         }
     ]
 }
