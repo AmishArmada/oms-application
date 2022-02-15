@@ -18,6 +18,7 @@
 		<module>order-service</module>
 		<module>account-service</module>
 		<module>catalog-service</module>
+		<module>discovery-server</module>
 	</modules>
 	<description>For Edureka</description>
 	<properties>
